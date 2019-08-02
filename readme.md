@@ -6,6 +6,11 @@ Sequel Pro is a fast, easy-to-use Mac database management application for workin
 You can find more details on our website: [sequelpro.com](https://sequelpro.com)
 
 ![Screenshot](https://sequelpro.com/images/browse.png)
+Installing
+=======
+
+1. Download sequelpro.app.zip
+2. Unarchive it.
 
 Build Instructions
 =======
