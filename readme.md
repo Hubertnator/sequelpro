@@ -6,11 +6,6 @@ Sequel Pro is a fast, easy-to-use Mac database management application for workin
 You can find more details on our website: [sequelpro.com](https://sequelpro.com)
 
 ![Screenshot](https://sequelpro.com/images/browse.png)
-Installing
-=======
-
-1. Download sequelpro.app.zip
-2. Unarchive it.
 
 Build Instructions
 =======
@@ -20,14 +15,14 @@ Build Instructions
  * Click "Clone in Desktop" on the right sidebar of our [GitHub page](https://github.com/sequelpro/sequelpro)
  * Open `sequel-pro.xcodeproj`
  * Click the `Run` button in the toolbar
- * If the above doesn't work, please file a [bug report](https://github.com/Hubertnator/sequelpro/issues/new?template=bug_report.md)
+ * If the above doesn't work, please file a [bug report](https://github.com/sequelpro/sequelpro/issues/new)
 
 Contributing
 =======
 
-The best way to help the project is to report any issues (both bugs and missing features) in [the issue tracker](https://github.com/sequelpro/sequelpro/issues). If you want to get more involved, then you can comment on issues written by other people or send us a pull request.
+The best way to help the project is to use our [test builds](https://sequelpro.com/test-builds) and report any issues (both bugs and missing features) in [the issue tracker](https://github.com/sequelpro/sequelpro/issues). If you want to get more involved, then you can comment on issues written by other people or send us a pull request.
 
-Please see the original SequelPro [projects page](https://github.com/sequelpro/sequelpro/projects). This lists the issues where I need a lot of help with. Please list solutions in pull requests
+Please see our [projects page](https://github.com/sequelpro/sequelpro/projects). This lists the issues where we would most like your help. There are simple and difficult tasks there so new contributors should be able to get started.
 
 License
 =======
@@ -36,6 +31,3 @@ Copyright (c) 2002-2019 Sequel Pro & CocoaMySQL Teams. All rights reserved.
 
 Sequel Pro is free and open source software, licensed under [MIT](https://opensource.org/licenses/MIT). See [LICENSE](https://github.com/sequelpro/sequelpro/blob/master/LICENSE) for full details.
 
-Compatibility
-=======
-This software works on Mac OSX 10.8 or higher. Requires 64bit system.
